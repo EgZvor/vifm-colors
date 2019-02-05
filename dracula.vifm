@@ -43,3 +43,6 @@ highlight Socket          cterm=none ctermfg=magenta ctermbg=black
 highlight Device          cterm=none ctermfg=red ctermbg=default
 highlight Fifo            cterm=none ctermfg=yellow ctermbg=black
 highlight Executable      cterm=none ctermfg=green ctermbg=default
+
+highlight TabLineSel      cterm=none ctermfg=blue ctermbg=none
+highlight TabLine         cterm=none ctermfg=243  ctermbg=none
